@@ -12,8 +12,8 @@ makes use of.
 
 I find that I have at the moment forgotten what the purpose of this blog was
 supposed to be. Perhaps I should work on my self-awareness. I guess this is
-sort of a journal. I wanted to make a blog was for greater self-awareness: to
-try to get a better hold on my self, if only by being slightly more effusive.
+sort of a journal. I wanted to make a blog to try to get a better hold on my
+self, if only by being slightly more effusive.
 
 In fact, I'd like to refine that. I find that I am effusive already. I have
 plenty to say, I just say most of it to myself. So, there again is a better
