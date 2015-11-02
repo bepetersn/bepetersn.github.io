@@ -1,0 +1,30 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Prefiguration
+tagline:             The Scissors of the Mind
+url:                 http://bepetersn.github.io/
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Brian Peterson
+  url:               https://github.com/bepetersn
+  email:             bepetersondev@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/bepetersn/bepetersn.github.io/
